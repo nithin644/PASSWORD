@@ -9,8 +9,8 @@
 
 ### MAINTAINERS
 * **SUMAN MONDAL ** | 
-Twitter: <a href="https://twitter.com/A1S0N_">@suman333mondal</a>
-Github: <a href="https://github.com/A1S0N">@AdminOnlineHacking</a>
+Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
+Github: <a href="https://github.com/AdminOnlineHacking">@AdminOnlineHacking</a>
 
 ### PREREQUISITES
 
