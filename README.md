@@ -8,7 +8,7 @@
 </p>
 
 ### MAINTAINERS
-* **Alisson Moretto** | 
+* **SUMAN MONDAL ** | 
 Twitter: <a href="https://twitter.com/A1S0N_">@suman333mondal</a>
 Github: <a href="https://github.com/A1S0N">@AdminOnlineHacking</a>
 
@@ -25,17 +25,19 @@ Github: <a href="https://github.com/A1S0N">@AdminOnlineHacking</a>
 
 ### CLONE
 ```
-git clone https://github.com/UndeadSec/GoblinWordGenerator.git
+git clone https://github.com/AdminOnlineHacking/WordlistPasswordGenerator
 ```
 
 ### RUNNING
 ```
 cd GoblinWordGenerator
+
+chmod +x *
 ```
 **Interface**
 
 ```
-python3 goblin.py
+python3 OnlineHackingPassswdList.py
 ```
 
 ### SCREENSHOT
