@@ -32,7 +32,7 @@ git clone https://github.com/AdminOnlineHacking/WordlistPasswordGenerator
 
 ### RUNNING
 ```
-cd GoblinWordGenerator
+cd WordlistPasswordGenerator
 
 chmod +x *
 ```
