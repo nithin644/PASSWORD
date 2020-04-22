@@ -11,7 +11,7 @@
 * **SUMAN MONDAL**| 
 Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
 Github: <a href="https://github.com/AdminOnlineHacking">@AdminOnlineHacking</a>
-Telegram: <a href="https://t.me/OnlinHacking">@OnlineHacking</a>
+Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 
 ### PREREQUISITES
