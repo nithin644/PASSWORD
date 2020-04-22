@@ -2,18 +2,15 @@
   <img src="https://raw.githubusercontent.com/UndeadSec/GoblinWordGenerator/master/goblin.png">  
 </p>
 
-<h1 align="center">GoblinWordGenerator 2.0</h1>
+<h1 align="center">WordlistPasswordGenerator - OnlineHacking</h1>
 <p align="center">
   Python wordlist generator 
 </p>
 
 ### MAINTAINERS
 * **Alisson Moretto** | 
-Twitter: <a href="https://twitter.com/A1S0N_">@A1S0N_</a>
-Github: <a href="https://github.com/A1S0N">@A1S0N</a>
-* **Sam Junior** |
-Github: <a href="https://github.com/samjunior416">@SamJunior</a>
-Telegram: <a href="https://t.me/un00mz">@SamJunior</a>
+Twitter: <a href="https://twitter.com/A1S0N_">@suman333mondal</a>
+Github: <a href="https://github.com/A1S0N">@AdminOnlineHacking</a>
 
 ### PREREQUISITES
 
