@@ -14,7 +14,7 @@ ban = '''
 
                                                     '''
 
-print('\n------------------\n\n G 0 B L ! N \033[32m2.0\033[m | WORDGENERATOR\n\n~ by: SUMAN MONDAL :@OnlineHacking\n\n------------------\n')
+print('\n------------------\n\n G 0 B L ! N \033[32m2.0\033[m | WORDGENERATOR\n\n~ by: SUMAN :@OnlineHacking\n\n------------------\n')
 
 scale = input('\033[36m[!] provide a size scale [eg: "1 to 8" = 1:8] : ')
 start = int(scale.split(':')[0])
