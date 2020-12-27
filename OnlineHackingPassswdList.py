@@ -36,11 +36,11 @@ print('''\033[92m
 ''')
 print('''\033[91m
 
-         \033[96m*\033[91m] \033[97mYouTube  \e[1;91m= \e[5m \e[1;97mOnline Hacking  
+         \033[96m*\033[91m] \033[97mYouTube  \033[1;91m= \033[5m \033[97mOnline Hacking  
 
-       \033[91m [\033[96m*\033[91m] \e[1;97mWebsite  \e[1;91m=  \e[4m\e[1;97mwww.OnlineHacking-net.com\e[24m   
+       \033[91m [\033[96m*\033[91m] \033[97mWebsite  \033[91m=  \033[4m\033[1;97mwww.OnlineHacking-net.com 
 
-        \033[96m*\033[91m] \033[97mTelegram \e[5m\e[1;91m=  \e[1;97m@OnlineHacking   \e[93m   
+        \033[96m*\033[91m] \033[97mTelegram \033[5m\033[1;91m=  \033[97m@OnlineHacking      
 
 
 ''')
