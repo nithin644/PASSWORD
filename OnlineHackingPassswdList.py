@@ -7,10 +7,7 @@
 #
 ##################
 
-import itertools
 
-
-ban = '''
 
 
 url_checker() {
