@@ -1,6 +1,6 @@
 # Inteligent Wordlist Generator
 #
-# By: Sam Junior and UndeadSec
+# By: Online Hacking [SUMAN MONDAL]
 # Goblin Wordlist Generator
 # Version: 2.0
 #
