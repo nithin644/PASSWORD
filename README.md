@@ -45,7 +45,7 @@ python3 OnlineHackingPassswdList.py
 ```
 
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/GoblinWordGenerator/blob/master/sc.png)
+![Shot]()
 
 
 **This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.**
