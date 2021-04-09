@@ -21,7 +21,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 ### TESTED ON
 * **Kali Linux - Rolling Edition**
 
-* **Linux Mint - 18.3 Sylvia**
+* **Termux - 0.101**
 
 * **Ubuntu - 16.04.3 LTS**
 
